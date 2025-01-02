@@ -9,14 +9,15 @@ accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 
 Your work in "Building a (Better) Book" will happen across these major assignments:
 
-+ [Discussion Prep](/pages/assignments/discussion-prep/)
-+ [Book Lab Reports](/pages/assignments/book-labs/)
-+ [Your \(Better\) Book Project](/pages/assignments/book-project/)
-    + Prompt
-    + Proposal
-    + Prototype
-    + Book
-    + Final Presentation
+| Assignment | Milestone | Due Date | 
+| :-- | :--- | ---: |
+| [Discussion Prep](/pages/assignments/discussion-prep/) | varies by contract | Ongoing |
+|  [Book Lab Reports](/pages/assignments/book-labs/) | varies by contract | Ongoing |
+| [Book Project](/pages/assignments/book-project/) | Prompt | TBD |
+| | Proposal | TBD |
+| | Prototype | TBD |
+| | Book | May 6 | 
+| | Presentation | May 6 |
 
 # Grade Contracts
 
