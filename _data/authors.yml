@@ -8,15 +8,13 @@ rcc:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    I am an Associate Professor in the [School of Information Sciences](https://ischool.illinois.edu/) and [Department of English](https://english.illinois.edu/) at the University of Illinois Urbana-Champaign. I also direct [Skeuomorph Press & BookLab](https://skeuomorph.ischool.illinois.edu/), an experiential studio for research and teaching in book and information arts that is housed in the [Champaign-Urbana Community FabLab](http://cucfablab.org/).
     
     Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            https://ryancordell.org/assets/img/neu_m043q3515-master-1400.webp
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://via.placeholder.com/128x128
