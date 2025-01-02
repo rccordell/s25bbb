@@ -37,7 +37,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/bbb-logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -59,12 +59,12 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  - title:             Syllabus
+    url:               /syllabus/
+  - title:             Assignments
+    url:               /assignments/
+  - title:             Schedule
+    url:               /schedule/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             CC-BY 2024.
