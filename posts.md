@@ -1,8 +1,7 @@
 ---
 layout: list
-title: Posts
+title: Updates
 description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
+  Check here for updates, lab instructions, and additional resources for Building a (Better) Book.
 grouped: true
 ---
