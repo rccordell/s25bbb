@@ -21,7 +21,7 @@ accent_image: /assets/img/old/typewriter.jpg
 
 + Ryan Cordell
 + Office: 614 Daniel St., Room 5147
-+ Office Hours: Tuesdays 11-1 in Skeuomorph Press, and by appointment
++ Office Hours: Thursdays 11-1 in Skeuomorph Press, and by appointment
 + Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu). 
 
 ## Course Description
