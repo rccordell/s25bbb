@@ -5,12 +5,16 @@ image: /assets/img/old/letterpress.jpg
 accent_image: /assets/img/old/letterpress.jpg
 ---
 
+# Schedule
+
+| Topic | Date | Lab |
+| :-- | :--- | --------:|
+| [Definitions](/pages/schedule/01-definitions/) | Jan. 21 & 23 | Book |
+| [Writing](/pages/schedule/02-writing/) | Jan. 28 & 30 | Composition |
+| [Type](/pages/schedule/03-type/) | Feb. 4 & 6 |  Print |
 
 
-Tuesday, January 21
-Thursday, January 23
-Tuesday, January 28
-Thursday, January 30
+
 Tuesday, February 4
 Thursday, February 6
 Tuesday, February 11
