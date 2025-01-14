@@ -10,35 +10,20 @@ accent_image: /assets/img/old/letterpress.jpg
 | Topic | Date | Lab |
 | :-- | :--- | --------:|
 | [Definitions](/pages/schedule/01-definitions/) | Jan. 21 & 23 | Book |
-| [Writing](/pages/schedule/02-writing/) | Jan. 28 & 30 | Composition |
-| [Type](/pages/schedule/03-type/) | Feb. 4 & 6 |  Print |
-
-
-
-Tuesday, February 4
-Thursday, February 6
-Tuesday, February 11
-Thursday, February 13
-Tuesday, February 18
-Thursday, February 20
-Tuesday, February 25
-Thursday, February 27
-Tuesday, March 4
-Thursday, March 6
-Tuesday, March 11
-Thursday, March 13
-Tuesday, March 18
-Thursday, March 20
-Tuesday, March 25
-Thursday, March 27
-Tuesday, April 1
-Thursday, April 3
-Tuesday, April 8
-Thursday, April 10
-Tuesday, April 15
-Thursday, April 17
-Tuesday, April 22
-Thursday, April 24
-Tuesday, April 29
-Thursday, May 1
-Tuesday, May 6
+| [Writing](/pages/schedule/02-writing/) | Jan. 28 & 30 | Paper |
+| [Type](/pages/schedule/03-type/) | Feb. 4 & 6 |  Composition |
+| [Print](/pages/schedule/04-print/) | February 11 & 13 | Press | 
+| [Pastiche](/pages/schedule/05-pastiche/) | February 18 & 20 | Zines |
+| [Format](/pages/schedule/06-format/) | February 25 & 27 | Binding |
+| [Interactive](/pages/schedule/07-interactive) | March 4 & 6 | E-lit |
+| TBD |March 11 & 13 | Artist's Books |
+|  | Spring Break | |
+| **Book Proposals Due** | March 24 | |
+| TBD | March 25 & 27 | Fabrication |
+| TBD | April 1 & 3 | Studio |
+| TBD | April 8 & 10 | Studio |
+| **Book Prototypes Due** | April 11 | |
+| TBD | April 15 & 17 | Studio |
+| TBD | April 22 & 24 | Studio |
+| TBD | April 29 & May 1 | Studio |
+| Final Presentations | May 6 | |

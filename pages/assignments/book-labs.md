@@ -27,4 +27,4 @@ In general, lab reports will include 500-1000 words of prose and will be due wit
 
 ## Grad Student Expectations
 
-In general, graduate students should aim to write longer book lab reports (~1500 words) that engage more substantively with critical sources, including additional scholarly sources. For ideas about scholarly sources, consider first the penumbral readings for a given week; if these are not sufficient, a good next step would be to look at the citations in our readings or find papers that cite our authors.
+In general, graduate students should aim to write longer book lab reports (~1500 words) that engage more substantively with critical sources, including additional scholarly sources. For ideas about scholarly sources, look at the citations in our readings, draw on research from other coursework, find papers that cite our authors, or speak with me. You could also consult the reading list for [a previous graduate course](https://s24bl.ryancordell.org/schedule.html) in book history.

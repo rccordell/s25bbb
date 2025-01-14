@@ -15,13 +15,13 @@ accent_image: /assets/img/old/typewriter.jpg
 + FabLab Open Hours: 
     + Monday-Thursday 5-9pm & Sunday 1-6pm (public)
     + Friday 1-5pm (students in FabLab classes) 
-+ Skeuomorph Press Open Hours: TBA 
++ Skeuomorph Press Open Hours: Sundays 1-5pm, Tuesday and Wednesday 5-9pm 
 
 ## Instructor Info
 
 + Ryan Cordell
 + Office: 614 Daniel St., Room 5147
-+ Office Hours: Thursdays 11-1 in Skeuomorph Press, and by appointment
++ Office Hours: Fridays 1-3 in Skeuomorph Press, and by appointment
 + Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu). 
 
 ## Course Description
@@ -66,6 +66,10 @@ The code of conduct for this course borrows directly from the stellar model outl
     + Unwelcome sexual attention.
     + Advocating for, or encouraging, any of the above behavior.
     + Repeated harassment of others. In general, if someone asks you to stop, then stop.
+
+### Social Media
+
+From time to time I will wish to take photos of class activities for posting on [Skeuomorph Press' website](https://skeuomorph.ischool.illinois.edu/), [Instagram](https://www.instagram.com/skeuomorphpress) and/or [Bluesky](https://bsky.app/profile/skeuomorph.bsky.social) accounts. If you would prefer not to appear in any such images, just tell me: no reason or explanation is necessary, and it will not affect your standing in the class in any way. I try not to name or tag people without their explicit permission, but if you know that you never want to be named or tagged in a public image, please tell me and I will make a note of it. If at some point I mistakenly include you in an image—in the background, perhaps, where I did not notice—let me know and I will remove it immediately. In general, I am fine with you posting things from class—some of our activities will be, if I dare say so myself, _very_ photogenic!—but I ask that you follow these same guidelines out of consideration for your classmates. Please feel free to tag me—@ryancordell on Instagram, @ryancordell.org on Bluesky—but especially the FabLab and/or Skeuomorph in your posts.  Likewise, I will want to document your final projects with photos and/or video, but you can of course opt out of those projects being shared in any way, with absolutely no penalty for doing so.
 
 ### Class Engagement
 

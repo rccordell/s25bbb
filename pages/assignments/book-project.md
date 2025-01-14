@@ -10,9 +10,9 @@ accent_image: /img/old/IMG_9629.jpg
 
 + An original book project students will conceive, develop, and produce over the entire semester
 + Students work individually or in groups
-+ Prompt due TBD
-+ Proposal due TBD
-* Prototype due TBD
++ Prompt due Thursday, February 6
++ Proposal due Monday, March 24
+* Prototype due Friday, April 11
 * Final Book presented & submitted with artist’s statement on Tuesday, May 6
 
 ## Details
@@ -31,14 +31,14 @@ In order to keep this project on track, we will observe several milestones throu
 
 On the companion website to her book, _The Book_, which we will read together in our course, Amaranth Borsuk [collects definitions of the word “book”](https://t-h-e-b-o-o-k.com/definitions/) from authors, publishers, bookmakers, artists, and many others. These definitions do not all agree, and in fact the point of this collection is to push readers to consider many possibilities for this familiar form.
 
-By Friday, February 24, you will choose one definition of "the book" from this website that you hope to engage in your project. You may choose a definition you hope your project will embody, or you may choose a definition you hope your project will reject, but you should choose a definition that prompts thought as you begin developing your project. You will submit a brief reflection that does the following:
+By Thursday, February 6, you will choose one definition of "the book" from this website that you hope to engage in your project. You may choose a definition you hope your project will embody, or you may choose a definition you hope your project will reject, but you should choose a definition that prompts thought as you begin developing your project. You should transcribe your chosen definition [in your commonplace book](/pages/assignments/commonplace-book/) and then briefly does the following there:
 
 1. Answer the questions: who wrote your chosen definition? What do they do? How does their art, research, or other work intersect with the book, and how might that work help us understand their definition of “the book?”
-2. Unpacks the definition, explaining the reasons you find it compelling—or, by contrast the reasons you find it unsatisfying.
+2. Unpacks the definition, explaining the reasons you find it compelling—or, by contrast, the reasons you find it unsatisfying.
 
 ### 2. Proposal
 
-By Friday, March 10—essentially, just before spring break—you will submit a proposal outlining the book project you hope to complete, as well as the steps required to do so.
+By Monday, March 24—essentially, just after we return from spring break—you will submit a proposal outlining the book project you hope to complete, as well as the steps required to do so.
 
 Regardless of how they are prepared, each proposal should describe:
 
@@ -54,7 +54,7 @@ We will evaluate your proposals together in order to ensure they are well outlin
 
 ### 3. Prototype
 
-By Friday, March 31 you will submit a prototype demonstrating the viability of your project concept. What you will submit during the prototype stage will vary widely by project, but it should essentially be a proof of concept: evidence that the plan you outlined in your proposal is feasible and that you are on track toward completion. Among other possibilities, you might submit:
+By Friday, April 11 you will submit a prototype demonstrating the viability of your project concept. What you will submit during the prototype stage will vary widely by project, but it should essentially be a proof of concept: evidence that the plan you outlined in your proposal is feasible and that you are on track toward completion. Among other possibilities, you might submit:
 
 1.  A few pages from a longer printed project
 2.  A set of conceptual drawings or wireframes from a graphic project
@@ -72,4 +72,4 @@ Your final project must include an artist(s) statement, likely a few pages in le
 
 #### Final Project Showcase
 
-During the last days of class you will present your projects to each other and to interested members of the campus community. We will discuss this event in more detail as the end of the semester approaches.
+During the last day of class—Tuesday, May 6—you will present your projects to each other and to interested members of the campus community. We will discuss this event in more detail as the end of the semester approaches.

@@ -10,14 +10,15 @@ accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 Your work in "Building a (Better) Book" will happen across these major assignments:
 
 | Assignment | Milestone | Due Date | 
-| :-- | :--- | ---: |
-| [Discussion Prep](/pages/assignments/discussion-prep/) | varies by contract | Ongoing |
-|  [Book Lab Reports](/pages/assignments/book-labs/) | varies by contract | Ongoing |
-| [Book Project](/pages/assignments/book-project/) | Prompt | TBD |
-| | Proposal | TBD |
-| | Prototype | TBD |
-| | Book | May 6 | 
-| | Presentation | May 6 |
+| :---- | :--------- | -----: |
+| Grade Contract | Document | January 27 |
+| [Commonplace Book](/pages/assignments/commonplace-book) | varies by contract | Ongoing |
+|  [Book Lab Reports](/pages/assignments/book-labs/) | varies by contract | 10 days after each lab |
+| [Book Project](/pages/assignments/book-project/) | Prompt | February 6 |
+| ——— | Proposal | March 24 |
+| ——— | Prototype | April 11 |
+| ——— | Book | May 6 | 
+| ——— | Presentation | May 6 |
 
 # Grade Contracts
 
@@ -45,8 +46,8 @@ As you no doubt know, grading can be a contentious issue in college courses, par
 
 To fulfill **any** grade contract a student must do the following, which should nonetheless be specified in the contract submitted for approval. When writing self assessments students must describe how they have met these requirements in addition to the grade-specific requirements:
 
-1. Come to class prepared to discuss any assigned readings, videos, or other media. Participate actively in class activities and discussions, making observations and asking questions that help the class think together.
-2. Come to studio sections prepared to work toward your final projects and willing to constructively engage with your colleagues, either by respectfully commenting on their work or being open to their comments on yours.
+1. Come to class prepared to discuss any assigned readings, videos, or other media. Participate actively in class discussions and lab activities, making observations and asking questions that help the class think together.
+2. Arrive at studio sections prepared to work toward your final projects and willing to constructively engage with your colleagues, either by respectfully commenting on their work or being open to their comments on yours.
 3. Meet with me in person—during office hours or at another scheduled time—at least once around midterm—roughly between weeks 5-8—to ensure you are on-track to meet your contract requirements, discuss any questions or concerns you have about the course or your progress, and decide on any necessary contract amendments.
 4. Revise contractual assignments as necessary until both you and I consider them "Satisfactory."
 5. Complete a final self-assessment demonstrating that your work has met the agreed requirements, submitting it to Professor Cordell by the deadlines specified on Canvas.
@@ -58,8 +59,8 @@ In addition to the items in "All Contracts" above, to contract for an "A" in thi
 1. Miss no more than two classes, inclusive of lab and studio sessions.
 2. Take no more than one information overload day during the semester. 
 3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](/pages/policies/). 
-4. Submit all [discussion preparation assignments](/pages/assignments/discussion-prep/) except for one
-5. Complete five of six [book lab reports](/pages/assignments/book-labs/)
+4. Contribute all [discussion preparation commonplace book entries](/pages/assignments/commonplace-book/) except for one
+5. Complete four of six [book lab reports](/pages/assignments/book-labs/)
 6. Complete an exemplary [(Better) Book Project](/pages/assignments/book-project/), meeting all specified deadlines, and presenting your project in the final week of the semester.
 
 ### "B" Contract
@@ -69,8 +70,8 @@ In addition to the items in "All Contracts" above,  to contract for an "B" in th
 1. Miss no more than three classes, inclusive of lab and studio sessions.
 2. Take no more than one information overload day during the semester. 
 3. Fully meet expectations expectations regarding in-class device according to the [policies outlined in the device use rubric](/pages/policies/).
-4. Submit all [discussion preparation assignments](/pages/assignments/discussion-prep/) except for two
-5. Complete four of six [book lab reports](/pages/assignments/book-lab/)
+4. Contribute all [discussion preparation commonplace book entries](/pages/assignments/commonplace-book/) except for two
+5. Complete three of six [book lab reports](/pages/assignments/book-lab/)
 6. Complete a satisfactory [(Better) Book Project](/pages/assignments/book-project/), meeting all specified deadlines with only minor delays, and presenting your project in the final week of the semester.
 
 ### "C" Contract
@@ -80,8 +81,8 @@ In addition to the items in "All Contracts" above, to contract for an "C" in thi
 1. Miss no more than four classes, inclusive of lab and studio sessions.
 2. Take no more than two information overload day during the semester. 
 3. Generally meet expectation regarding in-class device according to the [policies outlined in the device use rubric](/pages/policies/).
-4. Submit all [discussion preparation assignments](/pages/assignments/discussion-prep/) except for two
-5. Complete three of six [book lab reports](/pages/assignments/book-lab/) 
+4. Contribute all [discussion preparation commonplace book entries](/pages/assignments/commonplace-book/) except for two
+5. Complete two of six [book lab reports](/pages/assignments/book-lab/) 
 6. Complete a satisfactory [(Better) Book Project](/pages/assignments/book-project/), meeting all specified deadlines without serious delays, by the end of the semester.
 
 ### "D" and "F" Grades
