@@ -1,10 +1,11 @@
 ---
 layout: plain
 sitemap: false
-title: Discussion Prep
 image: /img/old/11843977294_e310b3c6b6_b.jpg
 accent_image: /img/old/11843977294_e310b3c6b6_b.jpg
 ---
+
+# Discussion Prep
 
 ## Assignment Overview
 

@@ -1,10 +1,11 @@
 ---
 layout: plain
 sitemap: false
-title: Your (Better) Book Project
 image: /assets/img/old/France_in_XXI_Century._School.jpg
 accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 ---
+
+# Your (Better) Book Project
 
 ## Assignment Overview:
 

@@ -1,10 +1,11 @@
 ---
 layout: plain
 sitemap: false
-title: Book Lab Reports
 image: /assets/img/old/France_in_XXI_Century._School.jpg
 accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 ---
+
+# Book Lab Reports
 
 ## Assignment Overview:
 
