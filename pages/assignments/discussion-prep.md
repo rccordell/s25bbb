@@ -1,8 +1,8 @@
 ---
 layout: plain
 sitemap: false
-image: /img/old/11843977294_e310b3c6b6_b.jpg
-accent_image: /img/old/11843977294_e310b3c6b6_b.jpg
+image: /assets/img/old/France_in_XXI_Century._School.jpg
+accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 ---
 
 # Discussion Prep
