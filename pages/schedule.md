@@ -15,15 +15,15 @@ accent_image: /assets/img/old/letterpress.jpg
 | [Print](/pages/schedule/04-print/) | February 11 & 13 | Press | 
 | [Pastiche](/pages/schedule/05-pastiche/) | February 18 & 20 | Zines |
 | [Format](/pages/schedule/06-format/) | February 25 & 27 | Binding |
-| [Interactive](/pages/schedule/07-interactive) | March 4 & 6 | E-lit |
-| TBD |March 11 & 13 | Artist's Books |
-|  | Spring Break | |
-| **Book Proposals Due** | March 24 | |
-| TBD | March 25 & 27 | Fabrication |
+| [Interactive](/pages/schedule/07-interactive/) | March 4 & 6 | E-lit |
+| [Experiment](/pages/schedule/08-experiment/) |March 11 & 13 | Artist's Books |
+| ☞ | Spring Break | ☜ |
+| **Book Proposals Due** | March 24 | ☜ |
+| [Fabrication](/pages/schedule/09-fabrication/) | March 25 & 27 | Lasers! |
 | TBD | April 1 & 3 | Studio |
 | TBD | April 8 & 10 | Studio |
-| **Book Prototypes Due** | April 11 | |
+| **Book Prototypes Due** | April 11 | ☜ |
 | TBD | April 15 & 17 | Studio |
 | TBD | April 22 & 24 | Studio |
-| TBD | April 29 & May 1 | Studio |
-| Final Presentations | May 6 | |
+| Project Work | April 29 & May 1 | Studio |
+| Final Presentations | May 6 | ☜ |

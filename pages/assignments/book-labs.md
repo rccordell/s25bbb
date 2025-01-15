@@ -2,8 +2,8 @@
 layout: plain
 sitemap: false
 title: Book Lab Reports
-image: /img/old/14934283002_9663bae608_k-banner.jpg
-accent_image: /img/old/14934283002_9663bae608_k-banner.jpg
+image: /assets/img/old/France_in_XXI_Century._School.jpg
+accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 ---
 
 ## Assignment Overview:

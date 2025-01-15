@@ -2,8 +2,8 @@
 layout: plain
 sitemap: false
 title: Your (Better) Book Project
-image: /img/old/IMG_9629.jpg
-accent_image: /img/old/IMG_9629.jpg
+image: /assets/img/old/France_in_XXI_Century._School.jpg
+accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 ---
 
 ## Assignment Overview:
