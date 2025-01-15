@@ -5,7 +5,7 @@ image: /assets/img/old/letterpress.jpg
 accent_image: /assets/img/old/letterpress.jpg
 ---
 
-# Chapter 5: Pastiche
+# Chapter 5: Paste
 
 ## Tuesday, February 18 | Discussion
 
