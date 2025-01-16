@@ -10,7 +10,7 @@ accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 ## Assignment Overview:
 
 + Written analyses of 500-1000 words (undergrad) or 1500 words (grad), accompanied by a variety of artifacts or media from our book lab sessions
-+ Submitted through Canvas
++ [Submitted through Canvas](https://canvas.illinois.edu/courses/54585/assignments)
 + Students work individually or in groups
 + Reports generally due within one week of the lab session.
 

@@ -11,10 +11,10 @@ accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 
 + An original book project students will conceive, develop, and produce over the entire semester
 + Students work individually or in groups
-+ Prompt due Thursday, February 6
-+ Proposal due Monday, March 24
-* Prototype due Friday, April 11
-* Final Book presented & submitted with artist’s statement on Tuesday, May 6
++ Prompt due [Thursday, February 6 via Canvas](https://canvas.illinois.edu/courses/54585/assignments/1203511)
++ Proposal due [Monday, March 24 via Canvas](https://canvas.illinois.edu/courses/54585/assignments/1203512/)
++ Prototype due Friday, April 11, either physically or [via Canvas](https://canvas.illinois.edu/courses/54585/assignments/1203522)
++ Final Book presented & submitted with artist’s statement on Thursday, May 1 or Tuesday, May 6, depending on your group. Artist's statement also [uploaded to Canvas](https://canvas.illinois.edu/courses/54585/assignments/1203525).
 
 ## Details
 
