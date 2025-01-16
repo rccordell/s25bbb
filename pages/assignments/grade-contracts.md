@@ -7,7 +7,7 @@ accent_image: /assets/img/old/France_in_XXI_Century._School.jpg
 
 # Grade Contracts
 
-In this course, you will determine the grade you receive by fulfilling a contract you will submit for my approval via Canvas by **Monday, January 27th**. 
+In this course, you will determine the grade you receive by fulfilling a contract you will [submit for my approval via Canvas](https://canvas.illinois.edu/courses/54585/assignments/1203111) by **Monday, January 27th**. 
 
 In brief, your written contract should detail: 
 
@@ -45,7 +45,7 @@ In addition to the items in "All Contracts" above, to contract for an "A" in thi
 2. Take no more than one information overload day during the semester. 
 3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric](/pages/syllabus/). 
 4. Contribute all [discussion preparation commonplace book entries](/pages/assignments/commonplace-book/) except for one
-5. Complete four of six [book lab reports](/pages/assignments/book-labs/)
+5. Complete six of nine [book lab reports](/pages/assignments/book-labs/)
 6. Complete an exemplary [(Better) Book Project](/pages/assignments/book-project/), meeting all specified deadlines, and presenting your project in the final week of the semester.
 
 ### "B" Contract
@@ -56,7 +56,7 @@ In addition to the items in "All Contracts" above,  to contract for an "B" in th
 2. Take no more than one information overload day during the semester. 
 3. Fully meet expectations expectations regarding in-class device according to the [policies outlined in the device use rubric](/pages/syllabus/).
 4. Contribute all [discussion preparation commonplace book entries](/pages/assignments/commonplace-book/) except for two
-5. Complete three of six [book lab reports](/pages/assignments/book-labs/)
+5. Complete five of nine [book lab reports](/pages/assignments/book-labs/)
 6. Complete a satisfactory [(Better) Book Project](/pages/assignments/book-project/), meeting all specified deadlines with only minor delays, and presenting your project in the final week of the semester.
 
 ### "C" Contract
@@ -67,7 +67,7 @@ In addition to the items in "All Contracts" above, to contract for an "C" in thi
 2. Take no more than two information overload day during the semester. 
 3. Generally meet expectation regarding in-class device according to the [policies outlined in the device use rubric](/pages/policies/).
 4. Contribute all [discussion preparation commonplace book entries](/pages/assignments/commonplace-book/) except for two
-5. Complete two of six [book lab reports](/pages/assignments/book-labs/) 
+5. Complete four of nine [book lab reports](/pages/assignments/book-labs/) 
 6. Complete a satisfactory [(Better) Book Project](/pages/assignments/book-project/), meeting all specified deadlines without serious delays, by the end of the semester.
 
 ### "D" and "F" Grades
