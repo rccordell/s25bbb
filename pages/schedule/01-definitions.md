@@ -9,7 +9,7 @@ accent_image: /assets/img/old/letterpress.jpg
 
 ## Tuesday, January 21 | Discussion
 
-+ Ursula K. Le Guin, “A Rant about ‘Technology’” (2004), [external website](http://www.ursulakleguinarchive.com/Note-Technology.html)
++ Ursula K. Le Guin, “A Rant about ‘Technology’” (2004), [external website](https://www.ursulakleguin.com/a-rant-about-technology)
 + Ken Liu, “The Bookmaking Habits of Select Species” (2012), [external website](https://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/)
 
 ## Thursday, January 23 | Lab: Book
