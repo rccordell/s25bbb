@@ -9,6 +9,7 @@ accent_image: /assets/img/old/letterpress.jpg
 
 ## Tuesday, February 4 | Discussion
 
++ Browse the first volume of Laurence Sterne, _The Life and Opinions of Tristram Shandy, Gentle-Man_ (1760), with an eye not toward content but design and typography, [external website](https://archive.org/details/lifeopinionsoftr01ster_0/mode/2up)
 + Walt Whitman, "A Font of Type" (1891), [external website](https://whitmanarchive.org/item/ppp.00707_01007)
 + Amaranth Borsuk, ["The Book as Content"](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=5376610&ppg=79) from _The Book_ (2018), [resource via library](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=5376610)
 + Find 2-3 videos of interest from [Book Historia's Bite Sized Book History](https://www.youtube.com/@BookHistoria/videos) series and be ready to share what you learned from them
