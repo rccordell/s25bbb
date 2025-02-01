@@ -30,7 +30,7 @@ In order to keep this project on track, we will observe several milestones throu
 
 ### 1. Prompt
 
-On the companion website to her book, _The Book_, which we will read together in our course, Amaranth Borsuk [collects definitions of the word “book”](https://t-h-e-b-o-o-k.com/definitions/) from authors, publishers, bookmakers, artists, and many others. These definitions do not all agree, and in fact the point of this collection is to push readers to consider many possibilities for this familiar form.
+On the companion website to her book, _The Book_, which we will read together in our course, Amaranth Borsuk [collects definitions of the word “book”](https://t-h-e-b-o-o-k.com/definitions/) from authors, publishers, bookmakers, artists, and many others. These definitions do not all agree, and in fact the point of this collection is to push readers to consider many possibilities for this familiar form.  The <https://t-h-e-b-o-o-k.com/> website does not work well anymore, but is [archived through the Wayback Machine](https://web.archive.org/web/20210301122906/https://t-h-e-b-o-o-k.com/definitions/), where the collected definitions are easier to browse
 
 By Thursday, February 6, you will choose one definition of "the book" from this website that you hope to engage in your project. You may choose a definition you hope your project will embody, or you may choose a definition you hope your project will reject, but you should choose a definition that prompts thought as you begin developing your project. You should transcribe your chosen definition [in your commonplace book](/pages/assignments/commonplace-book/) and then briefly does the following there:
 
