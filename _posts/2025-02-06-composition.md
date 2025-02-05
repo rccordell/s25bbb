@@ -13,6 +13,9 @@ In today's lab we will be setting type, preparing for a collaborative pamphlet/z
 1. You will work in pairs to compose one page. You have X inches of vertical space in total for your page.
 2. You can compose both of your chosen definitions of "book" from the [prompt stage of your final book assignment](/pages/assignments/book-project/), but this may prove too long. You could abbreviate both of your definitions to fit, or come up with a version that combines/summarizes your definitions. Whatever choice you make has to fit in the space defined in #1.
 3. You will use 20 point leading and one of the fonts we have set out for the lab. 
+4. You should fill out one of Skeuomorph's Press' job forms, including your name, the class, and the font you are using (both the drawer number and name). This will help us redistribute once we have printed the job.
+
+## Resources
 
 I will briefly review how to set type and there will be several assistants from Skeuomorph on hand to help you. If you need a video reminder, these are the most relevant tutorials:
 
