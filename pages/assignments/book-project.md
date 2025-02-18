@@ -74,3 +74,10 @@ Your final project must include an artist(s) statement, likely a few pages in le
 #### Final Project Showcase
 
 During the last day of class—Tuesday, May 6—you will present your projects to each other and to interested members of the campus community. We will discuss this event in more detail as the end of the semester approaches.
+
+## Examples
+
+We will discuss some physical examples in class together, but here are some links to exemplary digital projects over the years:
+
++ Jude Kuester, ["A Font of Type"](https://k-kuester.github.io/a-font-of-type/)
++ 
