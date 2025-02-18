@@ -80,5 +80,5 @@ During the last day of class—Tuesday, May 6—you will present your projects t
 We will discuss some physical examples in class together, but here are some links to a few exemplary digital/hybrid projects:
 
 + Jude Kuester, ["A Font of Type"](https://k-kuester.github.io/a-font-of-type/)
-+ [“Is This a Book” student Twine Project](/assets/TwineExamples/IsThisABook.html)
-+ [Camping game student final project](/assets/TwineExamples/Student-Project-1.html)
++ [“Is This a Book” student Twine Project](https://github.com/rccordell/s25bbb/blob/main/assets/TwineExamples/IsThisABook.html) (note: you'll need to download the HTML file and open in a browser to experience the twine narrative)
++ [Camping game student final project](https://github.com/rccordell/s25bbb/blob/main/assets/TwineExamples/Student-Project-1.html) (note: you'll need to download the HTML file and open in a browser to experience the twine narrative)
