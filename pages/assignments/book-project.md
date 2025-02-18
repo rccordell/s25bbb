@@ -80,4 +80,5 @@ During the last day of class—Tuesday, May 6—you will present your projects t
 We will discuss some physical examples in class together, but here are some links to exemplary digital projects over the years:
 
 + Jude Kuester, ["A Font of Type"](https://k-kuester.github.io/a-font-of-type/)
-+ 
++ [“Is This a Book” student Twine Project](/assets/TwineExamples/IsThisABook.html)
++ [Camping game student final project](/assets/TwineExamples/Student-Project-1.html)
