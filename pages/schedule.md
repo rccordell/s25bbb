@@ -23,7 +23,7 @@ accent_image: /assets/img/old/letterpress.jpg
 | [Futures](/pages/schedule/10-futures/) | April 1 & 3 | Studio |
 | Project Work | April 8 & 10 | Studio |
 | **Book Prototypes Due** | April 11 | ☜ |
-| [Generative](/pages/schedule/11-generative/) | April 15 & 17 | AI |
+| [Generative](/pages/schedule/11-generative/) | April 15 & 17 | Studio |
 | [Play](/pages/schedule/12-play/) | April 22 & 24 | Studio |
 | Project Work | April 29 | Studio |
 | Final Presentations | May 1 & May 6 | ☜ |

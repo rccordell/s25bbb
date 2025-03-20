@@ -13,6 +13,6 @@ accent_image: /assets/img/old/letterpress.jpg
 + Browse Jonathan Basile's [https://libraryofbabel.info/](https://libraryofbabel.info/), being sure to read the [About page](https://libraryofbabel.info/About.html) and spend some time with the [Theory sections](https://libraryofbabel.info/theory.html)
 + Melanie Walsh, Anna Preus, and Elizabeth Gronski, “Does ChatGPT Have a Poetic Style?” (2024), [external website](https://doi.org/10.48550/arXiv.2410.15299)
 
-## Thursday, April 17 | Lab: AI
+## Thursday, April 17 | Studio
 
 
